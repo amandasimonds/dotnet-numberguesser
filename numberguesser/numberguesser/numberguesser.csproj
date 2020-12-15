@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D0D68FB3-A80B-44B1-8669-479FF3FE240D}</ProjectGuid>
+    <ProjectGuid>{304C6BB9-D490-4D81-9DBF-D341754DBB33}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dotnet_console_app</RootNamespace>
-    <AssemblyName>dotnet-console-app</AssemblyName>
+    <RootNamespace>numberguesser</RootNamespace>
+    <AssemblyName>numberguesser</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

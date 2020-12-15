@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("dotnet-console-app")]
+[assembly: AssemblyTitle("numberguesser")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("dotnet-console-app")]
+[assembly: AssemblyProduct("numberguesser")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d0d68fb3-a80b-44b1-8669-479ff3fe240d")]
+[assembly: Guid("304c6bb9-d490-4d81-9dbf-d341754dbb33")]
 
 // Version information for an assembly consists of the following four values:
 //

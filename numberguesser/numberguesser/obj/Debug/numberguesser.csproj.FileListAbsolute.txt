@@ -1,0 +1,7 @@
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\bin\Debug\numberguesser.exe.config
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\bin\Debug\numberguesser.exe
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\bin\Debug\numberguesser.pdb
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\obj\Debug\numberguesser.csprojAssemblyReference.cache
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\obj\Debug\numberguesser.csproj.CoreCompileInputs.cache
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\obj\Debug\numberguesser.exe
+C:\Users\amand\bootcampHW\dotnet-numberguesser\numberguesser\numberguesser\obj\Debug\numberguesser.pdb
